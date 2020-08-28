@@ -8,6 +8,7 @@
 - Typescript;
 - Webpack;
 - Jest;
+- React Testing Library;
 - React Router Dom;
 - Styled Components;
 - Material UI.
