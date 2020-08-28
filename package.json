@@ -7,7 +7,7 @@
     "url": "https://github.com/joaosczip"
   },
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server --open",
     "test": "npx jest --runInBand --passWithNoTests --watchAll",
     "test:unit": "yarn test --silent"
   },
