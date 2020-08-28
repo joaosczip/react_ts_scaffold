@@ -6,6 +6,7 @@
 
 - ReactJS;
 - Typescript;
+- TS Paths;
 - Webpack;
 - Jest;
 - React Testing Library;
