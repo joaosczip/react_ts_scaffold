@@ -13,3 +13,9 @@
 - React Router Dom;
 - Styled Components;
 - Material UI.
+
+## Instructions
+
+- Just clone the repo and be happy
+
+OBS: I'll encourage you to put all the React code inside presentation folder
